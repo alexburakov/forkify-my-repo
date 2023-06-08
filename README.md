@@ -1,4 +1,4 @@
-# forkify Project
+# Forkify project
 
 My training application with custom recipe uploads.
 
